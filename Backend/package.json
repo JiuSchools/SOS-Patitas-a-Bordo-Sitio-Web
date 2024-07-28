@@ -1,0 +1,27 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Sitio web del Centro de adopcion SoS Patitas a Bordo",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JiuSchools/SOS-Patitas-a-Bordo-Sitio-Web.git"
+  },
+  "keywords": [
+    "Sitio",
+    "web"
+  ],
+  "author": "Emmanuel Juarez Tabaco <emmanuel070804@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JiuSchools/SOS-Patitas-a-Bordo-Sitio-Web/issues"
+  },
+  "homepage": "https://github.com/JiuSchools/SOS-Patitas-a-Bordo-Sitio-Web#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
